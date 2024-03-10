@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container } from 'react-bootstrap'
+import { Button, Container } from 'react-bootstrap'
 
 const Reasons = () => {
   return (
@@ -45,9 +45,9 @@ const Reasons = () => {
             just starting out, our app is your ultimate companion for success in
             the world of sports betting.
           </p>
-          <button>
+          <Button variant='dark'>
             Download BetMaster Pro now and start winning big today!
-          </button>
+          </Button>
         </div>
       </Container>
     </div>

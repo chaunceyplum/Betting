@@ -1,9 +1,13 @@
 import Footer from '@/components/Footer'
 import MyNav from '@/components/MyNav'
+import { useEffect } from 'react'
 import { Button, FormControl } from 'react-bootstrap'
 import { Card, CardBody, CardHeader, Container, Form } from 'reactstrap'
 
 const Login = () => {
+  // const fetcher = () => {
+  //  fetch(/)
+  // }
   return (
     <div>
       <MyNav />

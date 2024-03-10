@@ -26,12 +26,10 @@ const MyNav = () => {
           <Collapse isOpen={!collapsed} navbar>
             <Nav navbar>
               <NavItem>
-                <NavLink href='/components/'>Components</NavLink>
+                <NavLink href='/Pricing'>Pricing</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href='https://github.com/reactstrap/reactstrap'>
-                  GitHub
-                </NavLink>
+                <NavLink href='/Home'>Home</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
