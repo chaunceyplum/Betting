@@ -17,7 +17,7 @@ const Hero = () => {
                 <br />
 
                 <p>
-                  Are you tired of losing bets and feeling like you're just
+                  Are you tired of losing bets and feeling like youre just
                   guessing? Say goodbye to uncertainty and hello to winning
                   streaks with BetMaster Pro! Our cutting-edge betting
                   predictions application utilizes advanced algorithms and

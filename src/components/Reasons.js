@@ -21,7 +21,7 @@ const Reasons = () => {
               performance indicators to provide you with informed predictions.
             </li>
             <li>
-              <strong>Wide Coverage:</strong> Whether you're into football,
+              <strong>Wide Coverage:</strong> Whether youre into football,
               basketball, tennis, or any other sport, BetMaster Pro covers it
               all! Never miss out on a lucrative betting opportunity again.
             </li>
@@ -33,7 +33,7 @@ const Reasons = () => {
             <li>
               <strong>Real-Time Updates:</strong> Stay ahead of the game with
               real-time updates on match predictions, odds fluctuations, and
-              more. Never miss a beat, even when you're on the go.
+              more. Never miss a beat, even when youre on the go.
             </li>
           </ul>
         </div>
@@ -41,7 +41,7 @@ const Reasons = () => {
           <h2>Ready to Take Your Betting Game to the Next Level?</h2>
           <p>
             Join thousands of satisfied users who have transformed their betting
-            experience with BetMaster Pro. Whether you're a seasoned bettor or
+            experience with BetMaster Pro. Whether youre a seasoned bettor or
             just starting out, our app is your ultimate companion for success in
             the world of sports betting.
           </p>
