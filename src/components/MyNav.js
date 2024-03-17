@@ -34,6 +34,12 @@ const MyNav = () => {
               <NavItem>
                 <NavLink href='/DisplayPlayer'>Display Players</NavLink>
               </NavItem>
+              <NavItem>
+                <NavLink href='/Contact'>Contact</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href='/About'>About</NavLink>
+              </NavItem>
             </Nav>
           </Collapse>
         </Navbar>
