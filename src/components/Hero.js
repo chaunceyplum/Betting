@@ -5,6 +5,9 @@ const Hero = () => {
   return (
     <div>
       <div className='text-white'>
+        <br />
+        <br />
+
         <Container>
           <Row>
             <Col>
@@ -32,6 +35,16 @@ const Hero = () => {
             </Col>
             <Col xs={6}></Col>
           </Row>
+        </Container>
+        <Container>
+          <br />
+          <br />
+          <br />
+          <br />
+
+          <br />
+          <br />
+          <br />
         </Container>
       </div>
     </div>

@@ -25,20 +25,23 @@ const MyNav = () => {
           <NavbarToggler onClick={toggleNavbar} className='me-2' />
           <Collapse isOpen={!collapsed} navbar>
             <Nav navbar>
-              <NavItem>
+              {/* <NavItem>
                 <NavLink href='/Pricing'>Pricing</NavLink>
-              </NavItem>
+              </NavItem> */}
               <NavItem>
                 <NavLink href='/Home'>Home</NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink href='/DisplayPlayer'>Display Players</NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href='/Contact'>Contact</NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href='/About'>About</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href='/DisplayPlayer'>Display Players</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href='/GamblingHelp'>Help</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
