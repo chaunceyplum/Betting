@@ -40,6 +40,7 @@ const MyNav = () => {
               <NavItem>
                 <NavLink href='/DisplayPlayer'>Display Players</NavLink>
               </NavItem>
+
               <NavItem>
                 <NavLink href='/GamblingHelp'>Help</NavLink>
               </NavItem>
